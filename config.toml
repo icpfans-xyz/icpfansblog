@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://icpfans.xyz/"
+baseURL = "https://hungry-shaw-45182b.netlify.app"
 title = "ICPFans"
 theme = "logbook"
 
