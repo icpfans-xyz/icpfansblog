@@ -1,0 +1,462 @@
+######################## default configuration ####################
+baseURL = "https://demo.gethugothemes.com/logbook/"
+title = "LogBook | Hugo Personal Blog Template"
+theme = "logbook"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "50"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disqus short name
+disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+[[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"
+attributes = "async"
+
+
+############### English navigation ################
+
+# Dropdown menu
+[[Languages.en.menu.main]]
+weight = 1
+name = "homepage"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full Width"
+  url = "homepage/full/"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full With Left Sidebar"
+  url = "homepage/full-left/"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full With Right Sidebar"
+  url = "homepage/full-right/"
+  weight = 3
+  
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage List Style"
+  url = "homepage/list/"
+  weight = 4
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage List With Left Sidebar"
+  url = "homepage/list-left/"
+  weight = 5
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage List With Right Sidebar"
+  url = "homepage/list-right/"
+  weight = 6
+  
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid Style"
+  url = "homepage/grid/"
+  weight = 7
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid With Left Sidebar"
+  url = "homepage/grid-left/"
+  weight = 8
+
+  [[Languages.en.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid With Right Sidebar"
+  url = "homepage/grid-right/"
+  weight = 9
+
+
+[[Languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
+
+# Dropdown menu
+[[Languages.en.menu.main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Author"
+  url = "author/john-doe"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Category"
+  url = "categories/photography"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Tags"
+  url = "tags/photo"
+  weight = 3
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Search"
+  url = "http://demo.themefisher.com/logbook-hugo/search/?s=image"
+  weight = 4
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "404 Page"
+  url = "404"
+  weight = 5
+
+[[Languages.en.menu.main]]
+name = "Shop"
+url = "shop"
+weight = 5
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "About"
+url = "about"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Terms Conditions"
+url = "terms-conditions"
+weight = 4
+
+
+############### french navigation ################
+
+# Dropdown menu
+[[Languages.fr.menu.main]]
+weight = 1
+name = "homepage"
+hasChildren = true
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full Width"
+  url = "homepage/full/"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full With Left Sidebar"
+  url = "homepage/full-left/"
+  weight = 2
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Full With Right Sidebar"
+  url = "homepage/full-right/"
+  weight = 3
+  
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage List Style"
+  url = "homepage/list/"
+  weight = 4
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage List With Left Sidebar"
+  url = "homepage/list-left/"
+  weight = 5
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage List With Right Sidebar"
+  url = "homepage/list-right/"
+  weight = 6
+  
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid Style"
+  url = "homepage/grid/"
+  weight = 7
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid With Left Sidebar"
+  url = "homepage/grid-left/"
+  weight = 8
+
+  [[Languages.fr.menu.main]]
+  parent = "homepage"
+  name = "Homepage Grid With Right Sidebar"
+  url = "homepage/grid-right/"
+  weight = 9
+
+
+[[Languages.fr.menu.main]]
+name = "About"
+url = "about"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
+
+# Dropdown menu
+[[Languages.fr.menu.main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+  [[Languages.fr.menu.main]]
+  parent = "Pages"
+  name = "Author"
+  url = "author/john-doe"
+  weight = 1
+
+  [[Languages.fr.menu.main]]
+  parent = "Pages"
+  name = "Category"
+  url = "categories/photography"
+  weight = 2
+
+  [[Languages.fr.menu.main]]
+  parent = "Pages"
+  name = "Tags"
+  url = "tags/photo"
+  weight = 3
+
+  [[Languages.fr.menu.main]]
+  parent = "Pages"
+  name = "Search"
+  url = "http://demo.themefisher.com/logbook-hugo/search/?s=image"
+  weight = 4
+
+  [[Languages.fr.menu.main]]
+  parent = "Pages"
+  name = "404 Page"
+  url = "404"
+  weight = 5
+
+[[Languages.fr.menu.main]]
+name = "Shop"
+url = "shop"
+weight = 5
+
+
+# footer menu
+[[Languages.fr.menu.footer]]
+name = "About"
+url = "about"
+weight = 1
+
+[[Languages.fr.menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 2
+
+[[Languages.fr.menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 3
+
+[[Languages.fr.menu.footer]]
+name = "Terms Conditions"
+url = "terms-conditions"
+weight = 4
+
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+logo_width = "150px"
+favicon = "images/favicon.png"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# email address
+email = "georgia.young@example.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = true
+# main sections
+mainSections = ["post"]
+# featured post
+featured_post = true
+# layout
+post_layout = "grid" # layout value (full, grid or list)
+# Sidebar
+sidebar = "right" # sidebar value (left, right or false)
+# custom script on header
+custom_script= ""
+
+# site variables
+[params.variables]
+primary_color = "#ce8460"
+body_color = "#fff"
+text_color = "#696c6d"
+text_color_dark = "#1c1d1f"
+text_color_light = "#888c8e"
+border_color = "#ddd"
+black = "#000"
+white = "#fff"
+light = "#f0f0f0"
+
+# font variable
+# Give your font name from google font. and add font weight using comma, ex: "Roboto:400,500,900"
+primary_font = "Open Sans:wght@400"
+primary_font_type = "sans-serif" # [serif/sans-serif]
+secondary_font = "Montserrat:wght@400"
+secondary_font_type = "sans-serif" # [serif/sans-serif]
+icon_font = "Fontawesome 5 Free"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# snipcart for shop
+[params.snipcart]
+enable = true
+# snipcart public api key
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+currency = "$"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# promotion
+[params.promotion]
+title = "Create Stunning Website!!"
+content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+image = "images/promotion.jpg"
+button_label = "Get Started"
+button_link = "https://themefisher.com/"
+
+######################## sidebar widgets #########################
+[params.widgets]
+sidebar = ["search", "about-me", "promotion", "subscription", "categories", "recent-post", "tags", "social"]
+# available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
+
+
+############################# social site ########################
+[[params.social]]
+name = "facebook"
+icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[params.social]]
+name = "twitter"
+icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[params.social]]
+name = "linkedin"
+icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[params.social]]
+name = "github"
+icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+
+
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+# footer content
+footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"

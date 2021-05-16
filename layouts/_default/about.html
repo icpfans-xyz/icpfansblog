@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title-bordered mb-5 d-flex align-items-center">
+          <h1 class="h4">{{ .Title }}</h1>
+          <ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+            {{ range .Params.social }}
+            <li class="list-inline-item"><a href="{{ .link }}"><i class="{{.icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        
+        {{with .Params.Image}}
+        {{ if (fileExists (add `assets/` .)) }}
+        {{ $image:= resources.Get . }}
+        {{ $imageXL:= $image.Resize "1110x" }}
+        {{ $imageLG:= $image.Resize "650x" }}
+        {{ $imageMD:= $image.Resize "600x" }}
+        {{ $imageSM:= $image.Resize "545x" }}
+        <picture>
+          <source srcset="{{ $imageSM.Permalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
+          <source srcset="{{ $imageXL.Permalink }}" media="(max-width: 1200px)">
+          <source srcset="{{$imageXL.Permalink}}">
+          <img loading="lazy" class="img-fluid w-100 mb-4 rounded-lg" src="{{$imageXL.Permalink}}" alt="author">
+        </picture>
+        {{ else }}
+        <img loading="lazy" class="img-fluid w-100 mb-4 rounded-lg" src="{{ . | absURL }}" alt="author">
+        {{ end }}
+        {{ end }}
+
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

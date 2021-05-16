@@ -1,0 +1,59 @@
+- id: continue_reading
+  translation: 阅读详细
+
+- id: search_placeholder
+  translation: 输入并按回车键
+
+- id: latest_article
+  translation: 最新文章
+
+- id: categories
+  translation: 类别
+
+- id: tags
+  translation: 标签
+
+- id: search
+  translation: 搜索
+
+- id: search_result_for
+  translation: 搜索结果
+
+- id: date
+  translation: 日期
+
+- id: posted_by
+  translation: 作者
+
+- id: send
+  translation: 发送
+
+- id: name
+  translation: 您的名字
+
+- id: email 
+  translation: 您的邮箱地址
+
+- id: message
+  translation: 您的留言在这里
+
+- id: subscribe
+  translation: 订阅
+
+- id: write_email
+  translation: 给我们发送电子邮件
+
+- id: subscribe_newsletter
+  translation: 订阅简报
+
+- id: quick_links
+  translation: 快速链接
+
+- id: social
+  translation: 分享
+
+- id: back_to_home
+  translation: 回到首页
+
+- id: about_me
+  translation: 关于我们
