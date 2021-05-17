@@ -15,7 +15,7 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-### 本教程适用于有一定以太坊生态链开发者。
+### 本教程适用于有一定基础的以太坊生态链开发者。
 <br>
 <hr>
 &nbsp;&nbsp;&nbsp;&nbsp;此快速入门方案假定您是第一次安装DFINITY Canister SDK，并且正在作为本地开发环境的一部分运行Internet计算机。 首先，让我们构建并部署一个简单的Hello应用程序，该应用程序只有一个功能-greet。 greet函数接受一个text参数，并以类似于Hello的问候语返回结果，大家好！ 如果您使用命令行运行该应用程序，请在终端中输入；如果您使用浏览器访问该应用程序，则请在HTML页面中输入。

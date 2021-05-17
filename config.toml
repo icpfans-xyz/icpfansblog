@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://hungry-shaw-45182b.netlify.app"
+baseURL = "https://icpfans.xyz/"
 title = "ICPFans"
 theme = "logbook"
 
@@ -383,7 +383,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -403,12 +403,12 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 # promotion
-[params.promotion]
-title = "Create Stunning Website!!"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
-image = "images/promotion.jpg"
-button_label = "Get Started"
-button_link = "https://themefisher.com/"
+# [params.promotion]
+# title = "Create Stunning Website!!"
+# content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+# image = "images/promotion.jpg"
+# button_label = "Get Started"
+# button_link = "https://themefisher.com/"
 
 ######################## sidebar widgets #########################
 [params.widgets]
