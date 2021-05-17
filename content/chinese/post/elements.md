@@ -206,7 +206,7 @@ Markdown | Less | Pretty
 
 ##### Image
 
-![image](../../images/post/post-3.jpg)
+![image](/images/post/post-3.jpg)
 
 <hr>
 

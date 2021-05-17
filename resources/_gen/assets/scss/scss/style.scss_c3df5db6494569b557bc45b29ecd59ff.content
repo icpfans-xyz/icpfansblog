@@ -614,7 +614,7 @@ a:hover {
   border-left: 2px solid #0081FF;
   margin: 40px 0;
   font-weight: bold;
-  background: #0081FF; }
+  background: #f0f0f0; }
   .content blockquote p {
     margin-bottom: 0 !important; }
 

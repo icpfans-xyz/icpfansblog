@@ -160,10 +160,10 @@ hasChildren = true
   # url = "404"
   # weight = 5
 
-[[Languages.zh.menu.main]]
-name = "商店"
-url = "shop"
-weight = 5
+# [[Languages.zh.menu.main]]
+# name = "商店"
+# url = "shop"
+# weight = 5
 
 
 # footer menu
