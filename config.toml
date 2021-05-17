@@ -132,26 +132,27 @@ weight = 3
 # Dropdown menu
 [[Languages.zh.menu.main]]
 weight = 4
-name = "文章"
-hasChildren = true
+name = "网址导航"
+url = "https://123eth.org/"
+# hasChildren = true
 
-  [[Languages.zh.menu.main]]
-  parent = "文章"
-  name = "作者"
-  url = "author/john-doe"
-  weight = 1
+  # [[Languages.zh.menu.main]]
+  # parent = "文章"
+  # name = "作者"
+  # url = "author/john-doe"
+  # weight = 1
 
-  [[Languages.zh.menu.main]]
-  parent = "文章"
-  name = "类别"
-  url = "categories/photography"
-  weight = 2
+  # [[Languages.zh.menu.main]]
+  # parent = "文章"
+  # name = "类别"
+  # url = "categories/photography"
+  # weight = 2
 
-  [[Languages.zh.menu.main]]
-  parent = "文章"
-  name = "标签"
-  url = "tags/photo"
-  weight = 3
+  # [[Languages.zh.menu.main]]
+  # parent = "文章"
+  # name = "标签"
+  # url = "tags/photo"
+  # weight = 3
 
 
   # [[Languages.zh.menu.main]]
