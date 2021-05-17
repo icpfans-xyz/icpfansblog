@@ -333,9 +333,9 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-h.png"
+logo = "images/icpfans-logo.png"
 logo_width = "150px"
-favicon = "images/favicon.ico"
+favicon = "images/icpfans.ico"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

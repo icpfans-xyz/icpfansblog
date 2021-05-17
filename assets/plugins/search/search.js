@@ -31,7 +31,7 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"/images/no-search-found.png\"><h3>No Search Found</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"/images/no-search-found.png\"><h3>未找到搜索结果</h3></div>");
       // $('#search-results').append("<div class=\"text-center\"><img loading=\"lazy\" class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/17677384/110205559-d77c9580-7ea2-11eb-82b4-f1334db99530.png\"><h3>No Search Found</h3></div>");
     }
   });
