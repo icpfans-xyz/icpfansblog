@@ -1,6 +1,6 @@
 ---
 title: "ICP 本地开发环境快速搭建教程"
-date: 2020-05-16T9:40:24+06:00
+date: 2020-05-11T9:40:24+06:00
 # post thumb
 images:
   - "images/post/post-3.jpg"

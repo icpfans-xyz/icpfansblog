@@ -21,7 +21,7 @@
           </li>
         </ul>
       </div>
-      {{with .Params.images}}
+      <!-- {{with .Params.images}}
         <div class="col-12 mb-3">
           <div class="post-slider">
             {{ range .}}
@@ -37,7 +37,7 @@
               <source srcset="{{ $imageMD.Permalink }}" media="(max-width: 991px)">
               <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 1200px)">
               <source srcset="{{$imageLG.Permalink}}">
-              <img loading="lazy" class="img-fluid w-100" src="{{$imageLG.Permalink}}" alt="post-thumb">
+              <img loading="lazy" class="img-fluid w-100" src="{{$imageMD.Permalink}}" alt="post-thumb">
             </picture>
             {{ else }}
             <img loading="lazy" class="img-fluid" src="{{ . | absURL }}" alt="post-thumb">
@@ -45,7 +45,7 @@
             {{ end }}
           </div>
         </div>
-        {{end}}
+        {{end}} -->
       <div class="col-lg-10 mx-auto">
         <div class="content">{{.Content}}</div>
       </div>

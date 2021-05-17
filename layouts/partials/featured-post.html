@@ -17,7 +17,7 @@
           <source srcset="{{ $imageLG.Permalink }}" media="(max-width: 991px)">
           <source srcset="{{ $imageXL.Permalink }}" media="(max-width: 1200px)">
           <source srcset="{{$imageXL.Permalink}}">
-          <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{$imageXL.Permalink}}" alt="post image">
+          <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{$imageLG.Permalink}}" alt="post image">
         </picture>
         {{ else }}
         <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{ . | absURL }}" alt="post image">

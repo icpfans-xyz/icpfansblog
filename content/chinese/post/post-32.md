@@ -1,6 +1,6 @@
 ---
 title: "DFINITY 简介"
-date: 2020-05-17T10:40:24+06:00
+date: 2020-05-10T10:40:24+06:00
 # post thumb
 images:
   - "images/post/post-2.jpg"
