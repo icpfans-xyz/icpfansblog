@@ -333,7 +333,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.svg"
+logo = "images/logo-h.png"
 logo_width = "150px"
 favicon = "images/favicon.ico"
 # Meta data

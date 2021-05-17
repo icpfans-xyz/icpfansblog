@@ -1,9 +1,9 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
+title: "4 Cheerful Loving Couple Bakers Drinking Coffee"
 date: 2020-03-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/post-4.jpg"
+  - "images/post/post-4.png"
 #author
 author: "John Doe"
 # description
