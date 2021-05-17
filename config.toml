@@ -133,7 +133,7 @@ weight = 3
 [[Languages.zh.menu.main]]
 weight = 4
 name = "网址导航"
-url = "https://123eth.org/"
+url = "https://dfinity.org/"
 # hasChildren = true
 
   # [[Languages.zh.menu.main]]
