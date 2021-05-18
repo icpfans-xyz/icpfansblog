@@ -381,6 +381,9 @@ a:hover {
       @media (max-width: 767px) {
         .featured-post-content .post-meta a {
           color: #000; } }
+.card-body p {
+  font-size: 14px; }
+
 .post-title {
   color: #1c1d1f; }
   .post-title:hover {
@@ -448,30 +451,27 @@ a:hover {
   width: 35px;
   line-height: 35px; }
 
+/* pagination */
 .pagination {
-  margin-top: 50px; }
-  .pagination .page-item .page-link {
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    border-radius: 50%;
-    background: #0081FF;
-    text-align: center;
-    padding: 0;
-    margin-right: 10px;
-    border: 0;
-    color: #696c6d; }
-    .pagination .page-item .page-link:hover {
+  justify-content: center; }
+  .pagination .page-item {
+    margin: 0 2px; }
+    .pagination .page-item .page-link {
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      line-height: 26px;
+      text-align: center;
+      color: #696c6d;
+      border: 0;
+      border-radius: 0;
+      font-weight: bold; }
+      .pagination .page-item .page-link:hover {
+        background: #0081FF;
+        color: #fff; }
+    .pagination .page-item.active .page-link {
       background: #0081FF;
       color: #fff; }
-    .pagination .page-item .page-link:focus {
-      box-shadow: none; }
-  .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
-    border-radius: 50%; }
-  .pagination .page-item.active .page-link {
-    background: #0081FF;
-    color: #fff; }
 
 .content * {
   word-break: break-word;
