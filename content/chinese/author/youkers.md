@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
-image: "images/author.jpg"
-email: "johndoe@logbook.com"
+title: "Youkers"
+image: "images/youkers.jpeg"
+email: "zhangyou646@gmail.com"
 social:
   # - icon : "fab fa-facebook" # themify icon pack : https://themify.me/themify-icons
   #   link : "https://facebook.com"
@@ -11,4 +11,8 @@ social:
   #   link : "https://github.com"
 ---
 
-<(▰˘◡˘▰)> 介绍自己, 可以让社区小伙伴更了解你喔.
+{{< quote by="程序猿" >}}
+Youkers,区块链技术爱好者.....    
+
+zhangyou646@gmail.com
+{{</ quote >}}
