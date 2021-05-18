@@ -7,7 +7,7 @@ defaultContentLanguage = "zh"
 # 去掉默认语言前缀zh
 defaultContentLanguageInSubdir = false
 # post pagination
-paginate = "8"
+paginate = "6"
 # post excerpt
 summaryLength = "40"
 
