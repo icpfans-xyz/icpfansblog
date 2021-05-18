@@ -4,12 +4,13 @@ title = "ICPFans"
 theme = "logbook"
 
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+# 去掉默认语言前缀zh
+defaultContentLanguageInSubdir = false
 # post pagination
 paginate = "8"
 # post excerpt
 summaryLength = "40"
-hasCJKLanguage = true
+
 
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
@@ -56,6 +57,31 @@ link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"
 attributes = "async"
+
+[languages]
+  [languages.en]
+    languagedirection = "en"
+    title = "My blog"
+    weight = 2
+  [languages.zh]
+    title = "My blog"
+    weight = 1
+    [languages.zh.params]
+      linkedin = "https://icpfans.xyz"
+
+
+################################### chinese language #####################################
+[Languages.zh]
+languageName = "中文"
+languageCode = "zh-cn"
+contentDir = "content/chinese"
+weight = 1
+home = "首页"
+# footer content
+footer_content = "ICPFans 致力于建立对开发者最友好的 Dfinity 中文技术社区，推广和普及 Dfinity 相关技术，培养 Dfinity 生态开发者，帮助打造更好的互联网计算机。"
+# copyright
+copyright = "Design By [Xingxing Techology](https://icpfans.xyz/) Develop By [Xingxing Techology](https://icpfans.xyz/)"
+
 
 ############### 中文导航 ################
 
@@ -451,17 +477,6 @@ name = "github"
 icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
 link = "#"
 
-################################### chinese language #####################################
-[Languages.zh]
-languageName = "中文"
-languageCode = "zh-cn"
-contentDir = "content/chinese"
-weight = 1
-home = "首页"
-# footer content
-footer_content = "ICPFans 致力于建立对开发者最友好的 Dfinity 中文技术社区，推广和普及 Dfinity 相关技术，培养 Dfinity 生态开发者，帮助打造更好的互联网计算机。"
-# copyright
-copyright = "Design By [Xingxing Techology](https://icpfans.xyz/) Develop By [Xingxing Techology](https://icpfans.xyz/)"
 
 ################################### English language #####################################
 [Languages.en]
