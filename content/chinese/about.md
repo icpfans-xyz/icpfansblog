@@ -1,9 +1,9 @@
 ---
-title: "猩星科技团队"
+title: "猩星科技"
 image: "images/author-full.jpg"
 email: "zhangyou646@gmail.com"
 # description
-description: "猩星科技团队"
+description: "猩星科技"
 layout: "about"
 draft: false
 

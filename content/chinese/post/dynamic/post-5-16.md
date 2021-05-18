@@ -3,14 +3,14 @@ title: "DFINITY计划针对终端设备发布免费加密操作系统Endorphin"
 date: 2021-05-16T9:40:24+06:00
 # post thumb
 images:
-  - "https://mmbiz.qpic.cn/mmbiz_jpg/JUK5MT24wzNVBF2gwTS63gkf4aUppw6QFCI5RspGWwvho45Pe2XUDaoWkY65S2UvEK3N5TKL5DpVpicOficHafrQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
+  - "images/post/dynamic/5-16.png"
 #author
-author: "Youkers"
+author: "ICPFans"
 # description
 description: "DFINITY计划针对终端设备发布免费加密操作系统Endorphin"
 # Taxonomies
-categories: ["Dfinity"]
-tags: ["Dfinity","ICP","Endorphin"]
+categories: ["Dfinity","进展"]
+tags: ["Dfinity","进展"]
 type: "featured" # available type (regular or featured)
 draft: false
 ---
@@ -292,5 +292,5 @@ Endorphin设备将通过互联网计算机上的安全、开放的治理系统�
 ![avatar](https://mmbiz.qpic.cn/mmbiz_jpg/JUK5MT24wzNVBF2gwTS63gkf4aUppw6QFCI5RspGWwvho45Pe2XUDaoWkY65S2UvEK3N5TKL5DpVpicOficHafrQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
-来源：DFINITY
+来源：DFINITY公众号
 ##### [原文链接](https://mp.weixin.qq.com/s/QT_X5-v2f4vPh7ZTcqAB5A)

@@ -1,6 +1,6 @@
 ---
 title: "DFINITY 简介"
-date: 2020-05-10T10:40:24+06:00
+date: 2021-05-16T10:40:24+06:00
 # post thumb
 images:
   - "images/post/post-2.jpg"
@@ -12,7 +12,7 @@ description: "DFINITY 是开放式的虚拟区块链计算机和技术，延伸�
 # Taxonomies
 categories: ["科普"]
 tags: ["dfinity","简介"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 

@@ -6,9 +6,11 @@ theme = "logbook"
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 # post pagination
-paginate = "5"
+paginate = "8"
 # post excerpt
-summaryLength = "50"
+summaryLength = "40"
+hasCJKLanguage = true
+
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disqus short name
@@ -124,16 +126,16 @@ name = "关于"
 url = "about"
 weight = 2
 
-[[Languages.zh.menu.main]]
-name = "联系"
-url = "contact"
-weight = 3
+# [[Languages.zh.menu.main]]
+# name = "联系"
+# url = "contact"
+# weight = 3
 
 # Dropdown menu
-[[Languages.zh.menu.main]]
-weight = 4
-name = "网址导航"
-url = "https://dfinity.org/"
+# [[Languages.zh.menu.main]]
+# weight = 4
+# name = "网址导航"
+# url = "https://dfinity.org/"
 # hasChildren = true
 
   # [[Languages.zh.menu.main]]
@@ -173,20 +175,20 @@ name = "关于"
 url = "about"
 weight = 1
 
-[[Languages.zh.menu.footer]]
-name = "联系"
-url = "contact"
-weight = 2
+# [[Languages.zh.menu.footer]]
+# name = "联系"
+# url = "contact"
+# weight = 2
 
-[[Languages.zh.menu.footer]]
-name = "隐私"
-url = "privacy-policy"
-weight = 3
+# [[Languages.zh.menu.footer]]
+# name = "隐私"
+# url = "privacy-policy"
+# weight = 3
 
-[[Languages.zh.menu.footer]]
-name = "条款与条件"
-url = "terms-conditions"
-weight = 4
+# [[Languages.zh.menu.footer]]
+# name = "条款与条件"
+# url = "terms-conditions"
+# weight = 4
 
 
 
@@ -415,6 +417,17 @@ button = "I Accept"
 [params.widgets]
 sidebar = ["search", "about-me", "promotion", "subscription", "categories", "recent-post", "tags", "social"]
 # available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
+
+
+[[params.flinks]]
+name = "Dfinity 官网"
+icon = "fab arrow-right" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://dfinity.org/"
+
+[[params.flinks]]
+name = "ICPDAO"
+icon = "fab arrow-right" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
 
 
 ############################# social site ########################
