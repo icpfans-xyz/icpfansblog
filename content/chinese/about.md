@@ -1,6 +1,6 @@
 ---
 title: "猩星科技"
-image: "images/author-full.jpg"
+# image: "images/author-full.jpg"
 email: "zhangyou646@gmail.com"
 # description
 description: "猩星科技"
@@ -19,9 +19,5 @@ social:
 ---
 
 
-{{< quote by="猩星科技" >}}
 ICPFans 致力于建立对开发者最友好的 Dfinity 中文技术社区，推广和普及 Dfinity 相关技术，培养 Dfinity 生态开发者，帮助打造更好的互联网计算机。
-{{</ quote >}}
-
-<hr>
 

@@ -1,6 +1,6 @@
 ---
 title: "DFINITY计划针对终端设备发布免费加密操作系统Endorphin"
-date: 2021-05-16T9:40:24+06:00
+date: 2021-05-10T9:40:24+06:00
 # post thumb
 images:
   - "images/post/dynamic/5-16.png"
