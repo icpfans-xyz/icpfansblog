@@ -11,7 +11,7 @@ social:
   #   link : "https://github.com"
 ---
 
-{{< quote by="程序猿" >}}
+{{< quote by="程序猿作者：" >}}
 Youkers,区块链技术爱好者.....    
 
 zhangyou646@gmail.com
