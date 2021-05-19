@@ -1,5 +1,5 @@
 ---
-title: "ICPFans"
+title: "关于ICPFans"
 # image: "images/author-full.jpg"
 email: "zhangyou646@gmail.com"
 # description

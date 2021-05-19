@@ -4,15 +4,18 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mb-5">
-        <div class="title-bordered">
-          <h1 class="h4" style="color:#fff">{{i18n "search_result_for"}}
-            <script>
-              var keyword = (window.location.search).substr(3);
-              var result = keyword.replaceAll("+", " ");
-              // 中文需要解码
-              var deResult = decodeURIComponent(result);
-              document.write(deResult);
-            </script>
+        <div>
+          <h1 class="h4" >{{i18n "search_result_for"}}
+            <span style="background-color: #fcf8e3;">
+              <script>
+                var keyword = (window.location.search).substr(3);
+                var result = keyword.replaceAll("+", " ");
+                // 中文需要解码
+                var deResult = decodeURIComponent(result);
+                document.write(deResult);
+              </script>
+            </span>
+            
           </h1>
         </div>
       </div>

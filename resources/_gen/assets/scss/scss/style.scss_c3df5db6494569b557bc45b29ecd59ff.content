@@ -451,6 +451,14 @@ a:hover {
   width: 35px;
   line-height: 35px; }
 
+@media (max-width: 575px) {
+  .section-sm {
+    padding-top: 2.2em;
+    padding-bottom: 80px; }
+  .section {
+    padding-top: 16px;
+    padding-bottom: 16px; } }
+
 /* pagination */
 .pagination {
   justify-content: center; }
