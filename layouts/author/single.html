@@ -3,16 +3,16 @@
 <section class="section-sm border-bottom">
 	<div class="container">
 		<div class="row">
-			<div class="col-12">
-				<div class="title-bordered mb-5 d-flex align-items-center">
-					<h1 class="h4" style="color: white;">{{ .Title }}</h1>
+			<!-- <div class="col-12">
+				<div class="mb-5 d-flex align-items-center">
+					<h1 class="h4">{{ .Title }}</h1>
 					<ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
 						{{ range .Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{.icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
-			</div>
+			</div> -->
 
 			<div class="col-lg-3 col-md-4 mb-4 mb-md-0 text-center text-md-left">
 				{{ if .Params.Image }}
@@ -21,7 +21,12 @@
 				<img loading="lazy" class="rounded-lg img-fluid"
 					src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=256&pg&d=identicon">
 				{{ end }}
+				<div class="text-center">
+					<h1 class="h4">{{ .Title }}</h1>
+				</div>
+				
 			</div>
+			
 			<div class="col-lg-9 col-md-8 content text-center text-md-left">
 				{{ .Content }}
 			</div>
