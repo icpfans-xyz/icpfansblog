@@ -23,7 +23,7 @@
   translation: 日期
 
 - id: posted_by
-  translation: 作者
+  translation: 作者的文章
 
 - id: send
   translation: 发送
