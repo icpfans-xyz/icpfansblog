@@ -11,7 +11,7 @@ description: "了解互联网计算机的网络神​​经系统、神经元和
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 互联网计算机是世界上第一个完全自适应的区块链，互联网计算机网络以及承载该网络的特殊节点计算机在网络神经系统（NNS）的完全控制下运行，NNS是一个完全开放的去中心化令牌化治理系统。
