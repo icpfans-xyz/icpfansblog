@@ -152,6 +152,11 @@ name = "关于"
 url = "about"
 weight = 2
 
+[[Languages.zh.menu.main]]
+name = "论坛"
+url = "https://forum.icpfans.xyz/"
+weight = 3
+
 # [[Languages.zh.menu.main]]
 # name = "联系"
 # url = "contact"
