@@ -11,7 +11,7 @@ description: "Dfinity终于启动了其“互联网计算机”"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 经过多年的炒作和期待，Dfinity（一种其创建者称为“互联网计算机”的去中心化网络）终于上线了。
