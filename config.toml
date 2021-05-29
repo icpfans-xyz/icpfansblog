@@ -149,7 +149,7 @@ url = "/"
 
 [[Languages.zh.menu.main]]
 name = "生态"
-url = "https://ipc123.org/"
+url = "https://icp123.org/"
 weight = 2
 
 
