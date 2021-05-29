@@ -148,15 +148,21 @@ url = "/"
 
 
 [[Languages.zh.menu.main]]
-name = "关于"
-url = "about"
+name = "生态"
+url = "https://ipc123.org/"
 weight = 2
+
+
 
 [[Languages.zh.menu.main]]
 name = "论坛"
 url = "https://forum.icpfans.xyz/"
 weight = 3
 
+[[Languages.zh.menu.main]]
+name = "关于"
+url = "about"
+weight = 5
 # [[Languages.zh.menu.main]]
 # name = "联系"
 # url = "contact"
@@ -369,7 +375,7 @@ weight = 4
 [params]
 logo = "images/icpfans-logo.png"
 logo_width = "150px"
-favicon = "images/icpfans.ico"
+favicon = "images/icpfans_f.ico"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
