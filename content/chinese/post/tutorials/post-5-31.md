@@ -27,8 +27,6 @@ draft: false
 
 <br>
 
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/JUK5MT24wzPv13Yhx8f5HJdwqvg2haiahDludaEbzkicWs0CSQPHQhynrIHnzsibkZDkiawQBFE7UHmicib1rNEkQDcw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
-
 **1、何时可以访问ICP令牌？**
 
 * ICP令牌将在互联网计算机公开发布后不久解锁并可以访问。
@@ -107,7 +105,7 @@ draft: false
 
 * 您获得的DFINITY社区空投的ICP代币已分发到您的CoinList钱包，网址为https://coinlist.co/wallets。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JUK5MT24wzPBIJtouAWicJib9JPotquSnFUZDQfQt0wZgZARabgZaOsrLhgAeT5Xty5qxPnxicyKV0dhKX1hnnicTw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](images/post/tutorials/t-5-31.png)
 
 来源：CoinList
 
