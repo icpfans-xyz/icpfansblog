@@ -11,7 +11,7 @@ description: "回顾：互联网计算机的汞创世启动活动"
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>

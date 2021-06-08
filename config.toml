@@ -468,25 +468,25 @@ link = "#"
 
 
 ############################# social site ########################
-[[params.social]]
-name = "facebook"
-icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+# [[params.social]]
+# name = "facebook"
+# icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
+# link = "#"
 
 [[params.social]]
 name = "twitter"
 icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/icpfansxyz"
 
-[[params.social]]
-name = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+# [[params.social]]
+# name = "linkedin"
+# icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
+# link = "#"
 
-[[params.social]]
-name = "github"
-icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+# [[params.social]]
+# name = "github"
+# icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
+# link = "#"
 
 
 ################################### English language #####################################

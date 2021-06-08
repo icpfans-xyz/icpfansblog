@@ -11,7 +11,7 @@ description: "互联网计算机网络神经系统应用程序和钱包入门"
 # Taxonomies
 categories: ["Dfinity","技术教程"]
 tags: ["Dfinity","技术教程"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>

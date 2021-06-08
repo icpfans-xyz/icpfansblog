@@ -11,7 +11,7 @@ description: "DFINITY计划针对终端设备发布免费加密操作系统Endor
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 

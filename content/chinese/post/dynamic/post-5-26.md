@@ -11,7 +11,7 @@ description: "DFINITY 基金会启动约 2.2 亿美元开发者激励计划"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>

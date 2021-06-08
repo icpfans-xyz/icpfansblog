@@ -50,6 +50,9 @@
   translation: 快速链接
 
 - id: social
+  translation: 社交媒体
+
+- id: friend_links
   translation: 友情链接
 
 - id: back_to_home
