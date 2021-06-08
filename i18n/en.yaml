@@ -52,6 +52,9 @@
 - id: social
   translation: Social Links
 
+- id: friend_links
+  translation: Friend Links
+
 - id: back_to_home
   translation: Back To Home
 
