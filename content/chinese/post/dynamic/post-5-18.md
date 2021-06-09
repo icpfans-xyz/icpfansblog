@@ -22,7 +22,7 @@ draft: false
 
 <center>
 <video id="video" height=380 width=680 controls="" preload="none" poster="http://mmbiz.qpic.cn/mmbiz_jpg/JUK5MT24wzNVBF2gwTS63gkf4aUppw6Q93UFR2aG5e0vibmF6BHkQBTIuqibkzicgTDMScb48cakVTHks2QibhkH1w/0?wx_fmt=jpeg">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bf2xaaggaaax4albde7pnqfbogdmo4aayya.f10002.mp4?dis_k=7aaac150cd42f3ffd9eac2ba21ea36ce&amp;dis_t=1621415671&amp;spec_id=MzU1ODA4MjE5Ng%3D%3D1621415671&amp;vid=wxv_1870570879588352001&amp;format_id=10002" type="video/mp4">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bf2xaaggaaax4albde7pnqfbogdmo4aayya.f10002.mp4?dis_k=3685ea39305553a32dc8b62c7fbc835a&amp;dis_t=1623227745&amp;spec_id=MzU1ODA4MjE5Ng%3D%3D1623227746&amp;vid=wxv_1870570879588352001&amp;format_id=10002&amp;support_redirect=1&amp;mmversion=false" type="video/mp4">
 </video>
 </center>
 

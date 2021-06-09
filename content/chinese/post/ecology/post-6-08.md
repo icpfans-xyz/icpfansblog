@@ -21,7 +21,7 @@ draft: false
 
 <center>
 <video id="video" height=380 width=680 controls="" preload="none" poster="http://mmbiz.qpic.cn/mmbiz_jpg/JUK5MT24wzNVBF2gwTS63gkf4aUppw6QreWIKRib87vNM3wJgOpia4OxN84e5ianFabia5pVuhYg0n4M06H7cltccw/0?wx_fmt=jpeg">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bf2zqag6aaatyalsre7pzqfbtgdn7gaa3ya.f10002.mp4?dis_k=afd5623eed83d80a9ea93ed07e63d960&amp;dis_t=1623135312&amp;spec_id=MzU1ODA4MjE5Ng%3D%3D1623135312&amp;vid=wxv_1870585010869616641&amp;format_id=10002" type="video/mp4">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bf2zqag6aaatyalsre7pzqfbtgdn7gaa3ya.f10002.mp4?dis_k=a1c256965c57c137b3b7058e811e3653&amp;dis_t=1623227087&amp;spec_id=MzU1ODA4MjE5Ng%3D%3D1623227087&amp;vid=wxv_1870585010869616641&amp;format_id=10002&amp;support_redirect=1&amp;mmversion=false" type="video/mp4">
 </video>
 </center>
 
