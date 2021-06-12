@@ -11,7 +11,7 @@ description: "互联网计算机（ICP）– 从无到有"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>
