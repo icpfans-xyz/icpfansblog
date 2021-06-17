@@ -11,7 +11,7 @@ description: "什么是互联网计算机？最新流行的加密货币指南"
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>
