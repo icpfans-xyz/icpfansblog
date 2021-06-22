@@ -11,7 +11,7 @@ description: "验证互联网身份代码：演练"
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>
