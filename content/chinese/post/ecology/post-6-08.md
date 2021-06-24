@@ -11,7 +11,7 @@ description: "OpenChat：一个真正去中心化的 WhatsApp 替代品"
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 <center>

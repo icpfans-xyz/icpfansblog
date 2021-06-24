@@ -11,7 +11,7 @@ description: "两方案看Dapp如何应对前端托管的风险"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 
