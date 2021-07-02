@@ -11,7 +11,7 @@ description: "ICP与ETH互操作的原理与启示"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 
