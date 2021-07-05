@@ -5,7 +5,7 @@ date: 2021-07-03T06:40:24+06:00
 images:
   - "images/post/tutorials/7-3.png"
 #author
-author: "youkers"
+author: "Youkers"
 # description
 description: "DFINITY的身份与账户体系解析"
 # Taxonomies
@@ -24,19 +24,19 @@ DFINITY自2021年5月份主网上线以来，更多的开发者和用户开始�
 
 首先讲解几个使用DFINITY必须要了解的概念
 
-- Internet Identity 互联网身份,以下简称II。登录验证DFINITY用户的身份，使用dfinity身份需要有安全硬件的验证，具体可以是硬件设备指纹解锁、面部识别或轻触 YubiKey。
+-  **Internet Identity** 互联网身份,以下简称II。登录验证DFINITY用户的身份，使用dfinity身份需要有安全硬件的验证，具体可以是硬件设备指纹解锁、面部识别或轻触 YubiKey。
 
-- Principal ID(II) 登录 canister容器 后产生的Id，63个字节。登录不同canister容器Principal ID也会不一样， 这为用户创建了多个链上分身，防止其身份被追踪。
+- **Principal ID**  (II) 登录 canister容器 后产生的Id，63个字节。登录不同canister容器Principal ID也会不一样， 这为用户创建了多个链上分身，防止其身份被追踪。
 
-- Account ID  代币（ICP代币）转账交易地址，32字节钱包账户。
+- **Account ID**  代币（ICP代币）转账交易地址，32字节钱包账户。
 
-- Canister   DFINITY上运行应用、智能合约的容器。
+- **Canister**   DFINITY上运行应用、智能合约的容器。
 
-- ICP 代币   DFINITY上发行的代币，类似以太坊上发行的ERC20协议代币，ICP账本及交易数据在一个Ledger canister特殊容器上面。
+- **ICP 代币**   DFINITY上发行的代币，类似以太坊上发行的ERC20协议代币，ICP账本及交易数据在一个Ledger canister特殊容器上面。
 
--  cycles  支持canister容器运行的燃料，需要使用ICP兑换，cycles是DFINITY链上原生代币，类似以太坊链上交易消耗的gas费。**只能是canister 容器持有cycles。**
+- **cycles**  支持canister容器运行的燃料，需要使用ICP兑换，cycles是DFINITY链上原生代币，类似以太坊链上交易消耗的gas费。**只能是canister 容器持有cycles。**
 
-- 容器角色   有Controller(超级管理员) 和 custodian（保管人），Principal 对Canister容器管理的角色权限。
+- **容器角色**   有Controller(超级管理员) 和 custodian（保管人），Principal 对Canister容器管理的角色权限。
 
 **容器controller角色有以下权限：**
 
@@ -88,13 +88,13 @@ DFINITY自2021年5月份主网上线以来，更多的开发者和用户开始�
 
 DFINITY与大多数身份验证服务不同，无需使用用户名或密码，而是使用从智能手机进行人脸识别、计算机解锁密码或安全密钥即可登录开放的网络服，使用起来更方便、更安全。
 
-作者：[youkers](/author/youkers)
+作者：[Youkers](/author/youkers)
 
 <br>
 
 参考文献
 <br>
-1.[https://mp.weixin.qq.com/s/qR1e0xmb31yQeahKZexhNQ](https://mp.weixin.qq.com/s/qR1e0xmb31yQeahKZexhNQ)对DFINITY的去中心化身份、账户与钱包介绍，开发者能如何利用？
+1.[对DFINITY的去中心化身份、账户与钱包介绍，开发者能如何利用？](https://mp.weixin.qq.com/s/qR1e0xmb31yQeahKZexhNQ)
 <br>
-2.[https://mp.weixin.qq.com/s/QVXO20q0r7grMsB-cCUZRg](https://mp.weixin.qq.com/s/QVXO20q0r7grMsB-cCUZRg) 互联网身份：用户名和密码的终结
+2.[互联网身份：用户名和密码的终结](https://mp.weixin.qq.com/s/QVXO20q0r7grMsB-cCUZRg) 
 

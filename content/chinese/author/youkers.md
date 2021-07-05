@@ -13,6 +13,7 @@ social:
 
 {{< quote by="程序猿作者：" >}}
 Youkers,区块链技术爱好者.....    
-
-zhangyou646@gmail.com
+twitter:  [https://twitter.com/youkeou](https://twitter.com/youkeou)
+<br>
+邮箱：zhangyou646@gmail.com
 {{</ quote >}}
