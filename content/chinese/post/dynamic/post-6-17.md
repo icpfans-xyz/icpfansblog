@@ -11,7 +11,7 @@ description: "Messari | Dfinity 和互联网计算机简介"
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 

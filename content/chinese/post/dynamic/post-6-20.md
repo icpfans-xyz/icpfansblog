@@ -11,7 +11,7 @@ description: "Dfinity 代币 ICP 自 5 月以来贬值 80% 后社区做出的反
 # Taxonomies
 categories: ["Dfinity","进展"]
 tags: ["Dfinity","进展"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 
