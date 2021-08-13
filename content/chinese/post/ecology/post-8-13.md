@@ -145,6 +145,4 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 
 翻译：哈耶克baby
 
-原文：https://medium.com/dfinity/windows-hello-support-added-to-internet-identity-e9021f74afe9
-
 ##### 转载 [原文链接](https://mp.weixin.qq.com/s/Vuc30czc-9sgUw_W4QgSnQ)
