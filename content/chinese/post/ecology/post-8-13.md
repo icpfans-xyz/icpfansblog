@@ -36,11 +36,13 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 1.打开 Windows 设置，然后选择“帐户”。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9w7k7PiaJn1ibyu4FJb864BUbWJSCeq1CHZXCIUCWmIqibZQW92Fmk9xUoQ/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南</center>
 2.然后选择“登录选项”。
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wdvsWiaFtySrawxvogDMjDkQP8mK8f3Qibj4N53nrG2V2881DQQicR4ibNw/640?wx_fmt=jpeg)
 
 
@@ -48,6 +50,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 
 3.检查您的设备以确保它支持 Windows Hello 登录。
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wEu829vTvTfZ3dHZ77sicVofrDS78d4IgWMzUMrNiafTic1I0CicAO1RhSQ/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南</center>
@@ -68,6 +71,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 2.输入您已经注册的身份ID。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wvAlJ4Iib6InuteC9F4Z61ukHuZibYGSpo6DNtXbpsgUzH8DYyZCIPzOQ/640?wx_fmt=jpeg)
 
 
@@ -76,12 +80,14 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 3.通过使用 Windows Hello 进行身份验证来完成 Windows Hello 对话框。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wKuVbwsqvllbgkPiaIAV47v13AsN9LM7YkJYn0DTibwviclQYFL7axFhhg/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南</center>
 4.显示链接后，单击“显示为二维码”。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wgbOvLeS8ic55Rp5exEibUnTj2BeS39EaQrcVDZYVQibyLJIbLCBrS4iazg/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南</center>
@@ -96,6 +102,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 在手机上继续并按照步骤添加新的 Windows Hello 设备。在手机上完成这些步骤后，您应该能够使用 Windows Hello 在 Windows 设备上进行身份验证。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wCjEDv6IJQwzo3H2vsnVOHeMTNOPHABKKialVrqF8LtFrsSfmfTcNb8A/640?wx_fmt=jpeg)
 
 
@@ -104,6 +111,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 
 1.在您的 Windows 计算机上，访问https://identity.ic0.app并使用您的安全密钥进行身份验证以访问 ID 管理页面。到达那里后，单击“+ 添加新设备”。
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wchLV7xDmfKZtBKmW0YNb1ztH5Va6cz0kk04ZPnoGAhjdYibuEAicz8Jw/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南
@@ -111,6 +119,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 2.完成 Windows Hello 对话框。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wJG96ECFdoLsbM9d9MgCg5iacmkrkibDl1lJlice8CFo3PMcm8gJWZytAQ/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南
@@ -118,6 +127,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 3.为您的 Windows 设备添加一个名称。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wsnQJO3TY7PbrwGr8WppMOSbkWRglv6o4HQLB8YQgSlCxZogcM3nTXA/640?wx_fmt=jpeg)
 
 通过Windows Hello登陆到Nns或添加新设备登陆的指南
@@ -125,6 +135,7 @@ Internet Identity避免了困扰传统 Web 上的旧密码身份验证系统以�
 如果您刷新页面，你现在应该能够使用 Windows Hello 进行身份验证了。
 
 <center>
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/5KcIHZlicrKo2DwwgGGW2ShuaiaIYqPh9wCjEDv6IJQwzo3H2vsnVOHeMTNOPHABKKialVrqF8LtFrsSfmfTcNb8A/640?wx_fmt=jpeg)
 
 
