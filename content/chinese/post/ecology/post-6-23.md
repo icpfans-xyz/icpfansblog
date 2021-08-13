@@ -11,7 +11,7 @@ description: "HashKey 崔晨：详解 DFINITY 上线后进展与竞争优劣势"
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 
