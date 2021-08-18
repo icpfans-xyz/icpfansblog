@@ -11,7 +11,7 @@ description: "DFINITY的身份与账户体系解析"
 # Taxonomies
 categories: ["Dfinity","技术教程"]
 tags: ["Dfinity","技术教程"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 
