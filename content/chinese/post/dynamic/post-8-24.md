@@ -84,10 +84,11 @@ ETH Gas 昂贵的本质在于二级市场ETH Token价格的变量（随着ETH价
 
 Canisters不仅拥有当下智能合约相同的特性，也拥有智能合约之上的拓展（Actor、进程、WebAssembly）特性。智能合约是运行在链上的自动化程序，它们驻留在链上特定的地址代码（智能合约功能）和数据（智能合约状态）的集合，虽然任何人都可以通过编写智能合约部署到ETH网络中但是目前部署一个智能合约在ETH网络上的还是很昂贵，ETH链上存储1GB数据早在2018年的时候就达到了168万美元，而在Dfinity上创建一个容器并存储一年1GB数据所需的成本仅仅只要6美元不到（目前创建容器的Gas为0.142美元、存储1GB数据30天的Gas为0.467美元）。
 
-
+<center>
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/pTd1PaaakaRnD6uxqRvHnazfvAEB90JUicMn78IgfSwI6bgGNhhBorAI6bCabY7LAB8aaFNx2GhrdhLHic9Ahu5Q/640?wx_fmt=png)
 
+</center>
 
 
 Dfinity计算成本数据查看：
@@ -112,5 +113,5 @@ Dfinity目前Canisters的天花板是在于单个容器因为32位Wasm的虚拟�
 
 
 
-来源：ICP 基金会
+来源：DfinitySZ
 ##### 转载 [原文链接](https://mp.weixin.qq.com/s/AoQydEgwESUWltDitenh4A)
