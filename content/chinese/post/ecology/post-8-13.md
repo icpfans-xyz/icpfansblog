@@ -11,7 +11,7 @@ description: "【ICP登陆指南】通过Windows Hello登陆到Nns或添加新�
 # Taxonomies
 categories: ["Dfinity","生态"]
 tags: ["Dfinity","生态"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 ---
 目前可以支持超过 10 亿 Windows 用户通过 Internet Identity 轻松访问 dapps，为基于 IC 的 dapps 开辟了一个庞大增长用户群。
